@@ -7,7 +7,6 @@ import 'CustomIcons.dart';
 void main() => runApp(MaterialApp(
       home: MyApp(),
       debugShowCheckedModeBanner: false,
-      print('prabin'),
     ));
 
 class MyApp extends StatefulWidget {
